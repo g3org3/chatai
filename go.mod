@@ -1,4 +1,4 @@
-module chatai
+module github.com/g3org3/chatai
 
 go 1.26.1
 
